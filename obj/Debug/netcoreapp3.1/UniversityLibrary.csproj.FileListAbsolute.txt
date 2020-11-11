@@ -1,0 +1,13 @@
+C:\codebitsacademy\classworks\LabTask11\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.csprojAssemblyReference.cache
+C:\codebitsacademy\classworks\LabTask11\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.csproj.CoreCompileInputs.cache
+C:\codebitsacademy\classworks\LabTask11\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.AssemblyInfoInputs.cache
+C:\codebitsacademy\classworks\LabTask11\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.AssemblyInfo.cs
+C:\codebitsacademy\classworks\LabTask11\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.exe
+C:\codebitsacademy\classworks\LabTask11\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.deps.json
+C:\codebitsacademy\classworks\LabTask11\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.runtimeconfig.json
+C:\codebitsacademy\classworks\LabTask11\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.runtimeconfig.dev.json
+C:\codebitsacademy\classworks\LabTask11\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.dll
+C:\codebitsacademy\classworks\LabTask11\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.pdb
+C:\codebitsacademy\classworks\LabTask11\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.dll
+C:\codebitsacademy\classworks\LabTask11\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.pdb
+C:\codebitsacademy\classworks\LabTask11\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.genruntimeconfig.cache
